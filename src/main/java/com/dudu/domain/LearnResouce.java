@@ -1,6 +1,7 @@
 package com.dudu.domain;
 
 /**
+ * xuan.guo
  * Created by tengj on 2017/3/7.
  */
 public class LearnResouce {
